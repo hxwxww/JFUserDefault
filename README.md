@@ -1,6 +1,10 @@
 # JFUserDefault
 A simple way to use UserDefaults
 
+Import:
+```
+pod 'JFUserDefault'
+```
 Use Keys:
 
 ```
